@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+eggs
+build
+project.egg-info
+setup.py
+scrapy.cfg
